@@ -16,15 +16,14 @@ body {
   }
   
   .header {
-    height: 220px;
+    height: 280px;
     width: 100%;
     overflow: hidden;
-    background: white url('./images/IMG_3210.JPG') no-repeat center center;
+    background: white url(./images/IMG_3210.JPG) no-repeat center 40%;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    /* The two lines below make the photo opaque. No Apacity = 1  Full Opacity = 0  :-) */
     opacity: 0.6;
     line-height: 2.8em;
   }
@@ -34,7 +33,7 @@ body {
     font-family: Arial, San-serif;
     font-size: 70px;
     text-align: center;
-    color: #222222;
+    color: #4a3a2280;
     width: 100%;
   }
   
