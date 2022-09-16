@@ -12,7 +12,7 @@ body {
   #wrapper {
     margin: 0 auto;
     width: 100%;
-    background-color: rgb(40, 171, 231);
+    background-color: rgb(90 134 154);
   }
   
   .header {
@@ -33,7 +33,7 @@ body {
     font-family: Arial, San-serif;
     font-size: 70px;
     text-align: center;
-    color: #4a3a2280;
+    color: #ffffff80;
     width: 100%;
   }
   
